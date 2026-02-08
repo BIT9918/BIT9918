@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://t.me/bitnew1223">
+  <a href="https://t.me/Meng_Rithi_Chey">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://web.facebook.com/meng.rithybit/">
