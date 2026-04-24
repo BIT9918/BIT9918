@@ -37,7 +37,7 @@ I focus on building **modern UI with React + Tailwind** and improving my **backe
 
 ### 🌐 Portfolio Website
 🔗 https://my-portfolio-eoww.vercel.app  
-🎥 https://vt.tiktok.com/ZS9LoKGKa -> This  is Just old video click the link uper this is see new improved 
+🎥 https://vt.tiktok.com/ZS9LoKGKa -> This is Just old video click the link uper this to see new improved 
 
 - Personal portfolio website
 - Clean UI & responsive design
