@@ -26,16 +26,16 @@ Currently a Year 2 student at **Norton University** and learning at **Etec Cente
 
 I focus on building **modern UI with React + Tailwind** and improving my **backend skills with Laravel**.
 
-- 🎯 Goal: Get a **Frontend / Fullstack Internship**
-- ⚡ Strength: Clean UI, responsive design, fast learning
-- 🧠 Background: Started from **C/C++ → OOP → Web Development**
-- 🔥 Currently learning: **Advanced React & Laravel APIs**
+- Goal: Get a **Frontend / Fullstack Internship**
+- Strength: Clean UI, responsive design, fast learning
+- Background: Started from **C/C++ → OOP → Web Development**
+- Currently learning: **Advanced React & Laravel APIs**
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🌐 Portfolio Website
+### Portfolio Website
 🔗 https://my-portfolio-eoww.vercel.app  
 🎥 https://vt.tiktok.com/ZS9LoKGKa -> This is Just old video click the link uper this to see new improved 
 
@@ -45,7 +45,7 @@ I focus on building **modern UI with React + Tailwind** and improving my **backe
 
 ---
 
-### 🍔 Food Ordering UI Project
+### Food Ordering UI Project
 🔗 https://food-project-psi-swart.vercel.app  
 🎥 https://vt.tiktok.com/ZS9NJKVHP/
 
@@ -55,7 +55,7 @@ I focus on building **modern UI with React + Tailwind** and improving my **backe
 
 ---
 
-### 🧠 Laravel Backend Project (API)
+### Laravel Backend Project (API)
 🎥 https://vt.tiktok.com/ZS9NeDMEg/
 
 - Backend system using Laravel
@@ -64,7 +64,7 @@ I focus on building **modern UI with React + Tailwind** and improving my **backe
 
 ---
 
-### 🧮 Calculator App
+### Calculator App
 🔗 https://caculater-react-taiwindcss.vercel.app  
 
 - Simple and clean calculator
@@ -73,7 +73,7 @@ I focus on building **modern UI with React + Tailwind** and improving my **backe
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css" />
@@ -86,7 +86,7 @@ I focus on building **modern UI with React + Tailwind** and improving my **backe
 
 ---
 
-## 📚 Education
+## Education
 
 | Year | Institution | Details |
 |------|------------|--------|
@@ -97,7 +97,7 @@ I focus on building **modern UI with React + Tailwind** and improving my **backe
 
 ---
 
-## ⚡ Skills Progress
+## Skills Progress
 
 - React: ████████░░ 75%
 - Tailwind: ███████░░░ 70%
@@ -106,17 +106,17 @@ I focus on building **modern UI with React + Tailwind** and improving my **backe
 
 ---
 
-## 🎯 What I’m Looking For
+## What I’m Looking For
 
 I’m actively looking for:
 
-- 💼 Internship (Frontend / Fullstack)
-- 🤝 Real-world project experience
-- 📈 Growth in professional environment
+- Internship (Frontend / Fullstack)
+- Real-world project experience
+- Growth in professional environment
 
 ---
 
-## 💡 Personal Note
+## Personal Note
 
 I’m not the best yet — but I learn fast, build consistently,  
 and I take coding seriously.
@@ -126,5 +126,5 @@ If you give me a chance, I’ll prove it with results.
 ---
 
 <div align="center">
-  ⭐ Thanks for visiting my profile!
+  Thanks for visiting my profile!
 </div>
